@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.Food{
+    font-size: 23px;
+    text-align: center;
+    color:white;
+    position:fixed; 
+    left:700px; 
+    top: 550px;
+}
