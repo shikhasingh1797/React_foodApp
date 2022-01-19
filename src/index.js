@@ -1,17 +1,23 @@
-import App from './App';
+// import App from './App';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Food from './Food';
+import Foodview from './Foodview';
+import { BrowserRouter } from 'react-router-dom';
+// import Layout from './Layout';
 
-
+// import './index.css';
+// import Food from './Food';
 
 import reportWebVitals from './reportWebVitals';
 
+
 ReactDOM.render(
     <React.StrictMode>
-      <Food/>
-      <App />
+      <BrowserRouter>
+      {/* <Food/> */}
+      {/* <App /> */}
+        <Foodview/>
+      </BrowserRouter>
     </React.StrictMode>,
   document.getElementById('root')
 );

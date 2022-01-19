@@ -4,10 +4,10 @@
 
 }
 .Food{
-    font-size: 23px;
+    /* font-size: small; */
     text-align: center;
     color:white;
-    position:fixed; 
-    left:700px; 
-    top: 550px;
+    /* position:fixed;  */
+    /* left:300px;  */
+    /* top: 10px; */
 }
