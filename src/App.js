@@ -11,8 +11,8 @@ function App() {
           Hello  <code>🌸🌸🌸🌸</code> World
         </p>
         <Link to="/food">Food View</Link>
+        <Link to="/foodlist">Food Detail List</Link>
       </header>
-      {/* <Link to="/food">Food View</Link> */}
     </div>
   );
 }
