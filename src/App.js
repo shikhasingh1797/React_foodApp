@@ -12,6 +12,8 @@ function App() {
         </p>
         <Link to="/food">Food View</Link>
         <Link to="/foodlist">Food Detail List</Link>
+        <Link to="/createfood">Create food</Link>
+        <Link to="/updatefood">Delete & Update Food</Link>
       </header>
     </div>
   );

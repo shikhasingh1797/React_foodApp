@@ -39,7 +39,7 @@
 
 
 .App {
-  text-align: center;
+  text-align: 80px;
 }
 
 .App-logo {
@@ -72,10 +72,16 @@
   }
 }
 
-.CreateBook {
+.CreateFood {
   background-color: #2c3e50;
   min-height: 100vh;
   color: white;
+  text-align: center;
+  font-size: xx-large;
+  border: 1px solid blue;
+  /* position: absolute; */
+  /* left: 1500px; */
+  
 }
 
 .ShowBookDetails {
@@ -88,6 +94,7 @@
   background-color: #2c3e50;
   min-height: 100vh;
   color: white;
+
 }
 
 .ShowBookList {

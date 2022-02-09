@@ -1,13 +1,15 @@
 *{
     margin: 0;
     padding: 0;
+    /* background-color: pink; */
+    color: rgba(24, 24, 230, 0.712);
 
 }
 .Food{
-    /* font-size: small; */
     text-align: center;
     color:white;
-    /* position:fixed;  */
-    /* left:300px;  */
-    /* top: 10px; */
+    background-color:#2c3e50;
+
+        
+    
 }
